@@ -1,4 +1,4 @@
-function yy = my_linear_interpolation(x,y,xx)
+function yy = linear_interpolation(x,y,xx)
 
 yy = ones(1,length(xx));
 for i = 1:length(xx)

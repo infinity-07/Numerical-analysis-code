@@ -1,5 +1,0 @@
-\contentsline {section}{\numberline {1}问题的引出}{2}{section.1}%
-\contentsline {section}{\numberline {2}三次样条插值的性质}{2}{section.2}%
-\contentsline {section}{\numberline {3}钳制三次样条的求解方法}{3}{section.3}%
-\contentsline {section}{\numberline {4}示例演示}{5}{section.4}%
-\contentsline {section}{\numberline {5}代码附录}{7}{section.5}%
