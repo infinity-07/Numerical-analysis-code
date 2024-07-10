@@ -6,6 +6,7 @@
 ## 参考资料
 1. 《数值分析 第五版》.李庆扬,王能超,易大义编著.清华大学出版社.
 2. 《数值分析》原书第二版 .Timothy Sauer 著. 裴玉茹,马赓宇译. 机械工业出版社.
-
+## 笔记
+1. https://www.zhihu.com/column/c_1466717071224131584
 ## 我的联系方式
 CauZhangYang@outlook.com
